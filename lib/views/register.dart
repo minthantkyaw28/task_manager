@@ -15,18 +15,18 @@ class _RegisterPageState extends State<RegisterPage> {
         children: [
           const SizedBox(
             width: double.infinity,
-            height: 40.0,
+            height: 85.0,
           ),
-          Container(
-            margin:
-                EdgeInsets.only(left: double.infinity, right: double.infinity),
-            width: 200,
-            height: 200,
-            child: Text(
-              "Logo",
-              style: TextStyle(fontSize: 70),
-            ),
-          ),
+          // Container(
+          //   margin:
+          //       EdgeInsets.only(left: double.infinity, right: double.infinity),
+          //   width: 200,
+          //   height: 200,
+          //   child: Text(
+          //     "Logo",
+          //     style: TextStyle(fontSize: 70),
+          //   ),
+          // ),
           Text(
             "Register",
             style: TextStyle(

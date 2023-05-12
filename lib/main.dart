@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:taskmanager/views/entry.dart';
 import 'package:taskmanager/views/login.dart';
 import 'package:taskmanager/views/register.dart';
+import 'package:taskmanager/views/taskadd.dart';
 
 void main() {
   runApp(const MyApp());
